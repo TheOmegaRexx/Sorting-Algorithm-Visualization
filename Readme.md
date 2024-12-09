@@ -28,7 +28,7 @@ The application provides a visual representation of various sorting algorithms i
 - Python 3.7 or higher
 - Install the required libraries:
   ```bash
-  pip install numpy ttkbootstrap
+  pip install numpy ttkbootstrap==0.5.1
   ```
 
 ## How It Works
