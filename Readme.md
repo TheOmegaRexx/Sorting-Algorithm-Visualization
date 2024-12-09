@@ -20,7 +20,6 @@ The application provides a visual representation of various sorting algorithms i
   - Animations display element comparisons and swaps.
   - Colors represent the current state of the sorting process.
 
----
 
 ## Getting Started
 
